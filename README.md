@@ -42,4 +42,4 @@ Para rodar a classificação ao vivo:
 4. Escreva um número bem visível de 0 a 9 em um pedaço de papel.
 5. Posicione a folha de forma que o **número desenhado fique estritamente dentro do quadrado verde**.
 6. Uma segunda tela mostrará como o modelo está enxergando o número (Threshold), e o valor previsto com a taxa de confiança aparecerá acima do quadrado verde no vídeo original.
-7. Para interromper o programa, certifique-se de que a janela do vídeo esteja selecionada e pressione a tecla **`q`** ou **`ESC`**.
+7. Para interromper o programa, certifique-se de que a janela do vídeo esteja selecionada e pressione a tecla **`q`**.
